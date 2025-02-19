@@ -1,6 +1,8 @@
 # Hi, I'm Ayush! 👋
 
-I’m a **Software Engineer** who loves building distributed systems with **Rust**, **Go**, and cloud technologies. I've been in Web3 since 2019 and I believe in Bitcoin, Smart Contracts, and the power of Liquidity. I'm also very keen on AI Agents and primarily use Cursor for my development projects. I'm optimistic about the future of AI in Robotics, Agents, and Trading
+I’m a **Software Engineer** who loves building distributed systems with **Rust**, **Go**, and cloud technologies. I've been in Web3 since 2019 and I believe in Bitcoin, Smart Contracts, and the power of Liquidity. I'm optimistic about the future of AI in Robotics, Agents, and Trading.
+
+
 Previously at **Predicate**, **LiquiFi**, **Knox Networks**, **Algorand**, and **Ripple**.  
 Alum of **UC Berkeley** (EECS).
 
